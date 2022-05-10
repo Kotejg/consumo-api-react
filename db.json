@@ -1,7 +1,63 @@
 {
-    "detalhe": [
+   
+    "produtos": [
         {
-            "id": 11,
+            "id": 1,
+            "nome": "uva",
+            "preco": 7.48,
+            "url": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2022/01/uva-familia-burch-sandro_c_-4.jpg",
+            "descricao": "uva",
+            "peso": 2.0,
+            "categoria": "Frutas",
+            "statusProduto": "Disponível",
+            "armazenamento": "Armazenar em Temperatura Ambiente."
+        },
+        {
+            "id": 2,
+            "nome": "uva",
+            "preco": 7.48,
+            "url": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2022/01/uva-familia-burch-sandro_c_-4.jpg",
+            "descricao": "uva",
+            "peso": 2.0,
+            "categoria": "Frutas",
+            "statusProduto": "Disponível",
+            "armazenamento": "Armazenar em Temperatura Ambiente."
+        },
+        {
+            "id": 3,
+            "nome": "uva",
+            "preco": 7.48,
+            "url": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2022/01/uva-familia-burch-sandro_c_-4.jpg",
+            "descricao": "uva",
+            "peso": 2.0,
+            "categoria": "Frutas",
+            "statusProduto": "Disponível",
+            "armazenamento": "Armazenar em Temperatura Ambiente."
+        },
+        {
+            "id": 4,
+            "nome": "uva",
+            "preco": 7.48,
+            "url": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2022/01/uva-familia-burch-sandro_c_-4.jpg",
+            "descricao": "uva",
+            "peso": 2.0,
+            "categoria": "Frutas",
+            "statusProduto": "Disponível",
+            "armazenamento": "Armazenar em Temperatura Ambiente."
+        },
+        {
+            "id": 5,
+            "nome": "uva",
+            "preco": 7.48,
+            "url": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2022/01/uva-familia-burch-sandro_c_-4.jpg",
+            "descricao": "uva",
+            "peso": 2.0,
+            "categoria": "Frutas",
+            "statusProduto": "Disponível",
+            "armazenamento": "Armazenar em Temperatura Ambiente."
+        },
+        {
+            "id": 6,
             "nome": "uva",
             "preco": 7.48,
             "url": "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2022/01/uva-familia-burch-sandro_c_-4.jpg",
@@ -11,87 +67,6 @@
             "statusProduto": "Disponível",
             "armazenamento": "Armazenar em Temperatura Ambiente."
         }
-    ],
-    "produtos": [
-        {
-            "id": 3,
-            "nomeProduto": "fdgfdggfd",
-            "preco": 22.00,
-            "url": "gogle.com",
-            "descricao": "asfdsadsdadsa",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 4,
-            "nomeProduto": "jeff",
-            "preco": 99.00,
-            "url": "google.com",
-            "descricao": "baanna",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 5,
-            "nomeProduto": "uva",
-            "preco": 12.99,
-            "url": "gogo.com",
-            "descricao": "uva",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 6,
-            "nomeProduto": "uva",
-            "preco": 6.97,
-            "url": "gogo.com",
-            "descricao": "uva",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 7,
-            "nomeProduto": "uva",
-            "preco": 16.95,
-            "url": "gogo.com",
-            "descricao": "uva",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 8,
-            "nomeProduto": "uva",
-            "preco": 11.11,
-            "url": "gogo.com",
-            "descricao": "uva",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 9,
-            "nomeProduto": "uva",
-            "preco": 11.65,
-            "url": "gogo.com",
-            "descricao": "uva",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 10,
-            "nomeProduto": "uva",
-            "preco": 19.00,
-            "url": "gogo.com",
-            "descricao": "uva",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 11,
-            "nomeProduto": "uva",
-            "preco": 7.48,
-            "url": "gogo.com",
-            "descricao": "uva",
-            "statusProduto": "Disponível"
-        },
-        {
-            "id": 12,
-            "nomeProduto": "washignton",
-            "preco": 12.00,
-            "url": "ggggggg",
-            "descricao": "banadadad",
-            "statusProduto": "Disponível"
-        }
+       
     ]
 }

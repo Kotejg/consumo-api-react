@@ -1,8 +1,7 @@
 import ListaProdutos from "../../components/listaProdutos/ListaProdutos"
-import Axios from "axios"
 import { useEffect, useState } from "react"
 import axios from "axios"
-import {baseApi} from '../../envaronments'
+import {baseApi} from '../../environments'
 
 
 function Home(props) {
@@ -24,7 +23,7 @@ function Home(props) {
     //     })
     // } 
     useEffect(() => {
-        axios.get(`${baseApi}produtos`)
+        axios.get(`${baseApi}/produtos`)
         .then((response) => {
            setProdutos(response.data)
         }).catch((e) => {
@@ -34,6 +33,7 @@ function Home(props) {
 
     return (
         <>
+         <h1>Home</h1>
            <ListaProdutos title="Produtos" produtos={produtos} />
         </>
     )
